@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Nmea0183_Frame">
+    <Position X="13.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAkAAAAAAFAAAAAAIAAAAAAIAACQ=</HashCode>
+      <FileName>Nmea0183_Frame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nmea0183_Receiver">
+    <Position X="11.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAIAABAAAAAAAAAACIAQgAAAAAADCAAAAQAAgBA=</HashCode>
+      <FileName>Nmea0183_Receiver.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nmea0183_Sender">
+    <Position X="9.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAQAAAAAAACIAQAAAAAAAQCAAAAAAAAAA=</HashCode>
+      <FileName>Nmea0183_Sender.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Nmea0183_DataEngine">
+    <Position X="4.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AGAAAAAAAAAAAAAQEAAAAAAAAAAAAAAAEAAAAQAAAAA=</HashCode>
+      <FileName>Nmea0183_DataEngine.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Nmea0183_DataNavigation">
+    <Position X="6.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>IEABAAAAAggAgAAAAAQAAAAAAMAAAQAAACAAAQAAAEA=</HashCode>
+      <FileName>Nmea0183_DataNavigation.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Nmea0183_DataPosition">
+    <Position X="4.5" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AEAAQEAAQEAAAAAAAAAAAgAACEAAAAAAAgAAAAAAAAE=</HashCode>
+      <FileName>Nmea0183_DataPosition.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Nmea0183_DataWaypoint">
+    <Position X="1.75" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>oEABQAMAAACAAAIAAIAAEAAACUAAAwAICIAAAAAAQAA=</HashCode>
+      <FileName>Nmea0183_DataWaypoint.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Nmea0183_DataWeather">
+    <Position X="6.75" Y="4.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>QEAgAAAAggAAAAACAAAAAAAAAIAAAAAAAAAAQAIAAAA=</HashCode>
+      <FileName>Nmea0183_DataWeather.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
